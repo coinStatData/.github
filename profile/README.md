@@ -2,6 +2,9 @@
 
 CoinStatData provides basic statistical analysis on cryptocurrencies and a trading-bot driven by cyclical patterns, along with easy-to-use API's for hourly and daily interval data on cryptocurrency market.
 
+- [CoinStatData-UI GitHub Page](https://github.com/coinStatData/coinStatData-ui)
+- [Trade-Bot GitHub Page](https://github.com/coinStatData/coinbase-trade-bot)
+
 Work in progress...
 
 ## Cyclical Pattern Analysis
