@@ -23,3 +23,7 @@ Work in progress...
   <br/>
 </div>
 
+## CAPM (Capital Asset Pricing Model)
+
+Coming soon...
+
