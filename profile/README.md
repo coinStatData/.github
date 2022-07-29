@@ -19,7 +19,7 @@ Work in progress...
 
 ## Portfolio Optimization (Efficient Frontier)
 <div style="text-align:center">
-  <img src="https://user-images.githubusercontent.com/33708658/181595563-bcd62c2f-8f94-416b-8542-488f8cb34651.png" width="550px" height="300px"></img>
+  <img src="https://user-images.githubusercontent.com/33708658/181595563-bcd62c2f-8f94-416b-8542-488f8cb34651.png" width="550px" height="250px"></img>
   <br/>
 </div>
 
