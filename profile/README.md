@@ -24,9 +24,10 @@ Work in progress...
 </div>
 
 ## CAPM (Capital Asset Pricing Model)
-
-Coming soon...
-
+<div style="text-align:center">
+![capm](https://user-images.githubusercontent.com/33708658/224511867-a6a0cef4-84ce-4484-914f-8ca363bea431.png)
+  <br/>
+</div>
 
 # CoinStatData(CSD) Indexes
 ## CSD 50 Index
