@@ -25,7 +25,7 @@ Work in progress...
 
 ## CAPM (Capital Asset Pricing Model)
 <div style="text-align:center">
-<img src="https://user-images.githubusercontent.com/33708658/224511867-a6a0cef4-84ce-4484-914f-8ca363bea431.png" width="550px" height="350px"></img>
+<img src="https://user-images.githubusercontent.com/33708658/224511867-a6a0cef4-84ce-4484-914f-8ca363bea431.png" width="550px" height="400px"></img>
   <br/>
 </div>
 
