@@ -1,4 +1,4 @@
-# CoinStatData
+# CoinStatData (This is a project demo site! Not a real platform)
 
 CoinStatData provides basic statistical analysis on cryptocurrencies and a trading-bot driven by cyclical patterns, along with easy-to-use API's for hourly and daily interval data on cryptocurrency market.
 
